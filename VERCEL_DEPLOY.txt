@@ -1,0 +1,4 @@
+# DJ SURE — Premium DJ Portfolio Website
+
+This is the project root. Deploy this folder (`djsure`) to Vercel.
+Make sure the Root Directory in Vercel settings is set to `djsure` (or just deploy the `djsure` folder itself).
