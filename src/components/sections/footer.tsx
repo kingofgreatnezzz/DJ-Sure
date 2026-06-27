@@ -188,8 +188,10 @@ export function Footer() {
             <p className="text-xs text-gray-500">
               © {new Date().getFullYear()} DJ SURE Entertainment. All rights reserved.
             </p>
-            <p className="text-xs text-gray-500 font-heading italic tracking-wider">
-              Created with ❤️ by King of Greatness
+            <p className="text-xs text-gray-500">
+              Crafted by{' '}
+              <span className="text-gold font-heading font-semibold">King of Greatness</span>
+              <span className="text-gray-600"> — TECH DIBIA</span>
             </p>
             <button
               onClick={scrollToTop}
